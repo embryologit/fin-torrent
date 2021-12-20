@@ -29,3 +29,4 @@ As one can see, fin-torrent involves a considerable amount of centralization (an
 - Rights. How can strong format-enforcement be paired with high community-participation-rights? There needs to be a validator-node.
 - Format is nice but what about content? Maybe a script sampling torrents and validating content by comparing with classic, centralised findata APIs (low data transfer)?
 - How to non-subjectively classify torrents as legacy or not.
+- What about other P2P technologies? Like IPFS. This system has already been used to create decentralized DBs like OrbitDB or ThreadDB. What about MongoDB? ThreadDB looks like P2P MongoDB. 
